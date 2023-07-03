@@ -1,0 +1,27 @@
+.p-datatable.p-datatable-striped .p-datatable-tbody > tr:nth-child(even) {
+    background: red;
+}
+
+.p-datatable .p-datatable-tbody > tr {
+    background: black;
+}
+
+.p-datatable table th.nowrap-header,
+.p-datatable table td.nowrap-cell {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.container{display:flex;}
+.container div{flex:1}
+
+.load-more-btn {
+  text-align: center;
+  margin-top: 10px;
+} 
+
+.sentence{
+  height: 100%; 
+  margin: auto auto;
+}
