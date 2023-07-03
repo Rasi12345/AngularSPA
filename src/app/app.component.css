@@ -22,6 +22,11 @@
 } 
 
 .sentence{
-  height: 100%; 
-  margin: auto auto;
+  height: 100px;
+  margin: 0px;
+}
+
+.city-details{
+  position: fixed;
+  top: 50%;
 }
